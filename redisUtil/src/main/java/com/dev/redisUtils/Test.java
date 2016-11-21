@@ -3,7 +3,7 @@ package com.dev.redisUtils;
 public class Test {
  public static void main(String[] args) {
 	
-	 JedisPoolUtil.getJedis();
+	 JedisPoolUtil.getJedis(); 
 	  
 			
  	}
